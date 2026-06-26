@@ -12,7 +12,6 @@ Features
 
 Tools & Technologies
 * SQL
-* Python
 * HTML Dashboard
 * Git & GitHub
 
